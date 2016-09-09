@@ -1,2 +1,2 @@
 # nimsystool
-Basic tools for sysadmin
+Basic tools for sysadmin. Written using Nim language.
